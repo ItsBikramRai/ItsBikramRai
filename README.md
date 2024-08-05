@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I'm Bikram Rai, an aspiring Frontend Developer with a vision to become a Full-Stack Developer and AI Enthusiast in the future. My journey is fueled by a deep passion for technology and a relentless drive for learning and growth.
+I'm an aspiring Full-Stack Developer passionate about creating user-friendly interfaces and robust backend systems. Constantly exploring new technologies, I'm dedicated to expanding my skills and knowledge to create impactful and efficient solutions.
 
 ## Skills:
 
