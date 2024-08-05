@@ -22,11 +22,11 @@ Open to collaborations and contributions. Feel free to reach out!
 - X: [@theknuth](https://x.com/theknuth)
 ## GitHub Stats:
 
-![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiBikram&show_icons=true&theme=radical)
+![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsBikramRai&show_icons=true&theme=radical)
 
 ## Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiBikram&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBikramRai&layout=compact&theme=radical)
 
 
 ## Thanks for Visiting!
