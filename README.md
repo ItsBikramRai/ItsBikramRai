@@ -23,10 +23,6 @@ I'm an aspiring Full-Stack Developer passionate about creating user-friendly int
 
 Open to collaborations and contributions. Feel free to reach out!
 - Email: raibikraminfo@gmail.com
-
-## Additional Info:
-
-- Email: raibikraminfo@gmail.com
 - LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
 - X: [@theknuth](https://x.com/theknuth)
 
