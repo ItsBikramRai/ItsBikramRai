@@ -22,6 +22,7 @@ I'm an aspiring Full-Stack Developer passionate about creating user-friendly int
 ## Let's Collaborate:
 
 Open to collaborations and contributions. Feel free to reach out!
+- Email: raibikraminfo@gmail.com
 
 ## Additional Info:
 
