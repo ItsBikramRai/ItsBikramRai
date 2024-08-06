@@ -11,6 +11,14 @@ I'm an aspiring Full-Stack Developer passionate about creating user-friendly int
 - HTML
 - CSS[Bootstrap]
  
+## GitHub Stats:
+
+![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsBikramRai&show_icons=true&theme=radical)
+
+## Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBikramRai&layout=compact&theme=radical)
+
 ## Let's Collaborate:
 
 Open to collaborations and contributions. Feel free to reach out!
@@ -20,14 +28,6 @@ Open to collaborations and contributions. Feel free to reach out!
 - Email: raibikraminfo@gmail.com
 - LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
 - X: [@theknuth](https://x.com/theknuth)
-## GitHub Stats:
-
-![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsBikramRai&show_icons=true&theme=radical)
-
-## Most Used Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBikramRai&layout=compact&theme=radical)
-
 
 ## Thanks for Visiting!
 
