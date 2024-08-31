@@ -7,9 +7,10 @@ I'm an aspiring Full-Stack Developer passionate about creating user-friendly int
 ## Skills:
 
 - JavaScript
+- Nodejs
 - React
 - HTML
-- CSS[Bootstrap]
+- CSS[Bootstrap,Tailwind]
  
 ## GitHub Stats:
 
