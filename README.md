@@ -1,31 +1,32 @@
-# Hi there! 👋 I'm Bikram Rai.
+# Hi there! 👋 I'm Bikram Rai
 
-## About Me:
+## About Me
 
-I'm an aspiring Full-Stack Developer passionate about creating user-friendly interfaces and robust backend systems. Constantly exploring new technologies, I'm dedicated to expanding my skills and knowledge to create impactful and efficient solutions.
+I'm an aspiring Full-Stack Developer passionate about creating user-friendly interfaces and robust backend systems. Constantly exploring new technologies, I'm dedicated to expanding my skills and knowledge to build impactful and efficient solutions.
 
-## Skills:
+## Skills
 
 - JavaScript
-- Nodejs
+- Node.js
 - React
 - HTML
-- CSS[Bootstrap,Tailwind]
- 
-## GitHub Stats:
+- CSS (Bootstrap, Tailwind)
+
+## GitHub Stats
 
 ![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsBikramRai&show_icons=true&theme=radical)
 
-## Most Used Languages:
+## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBikramRai&layout=compact&theme=radical)
 
-## Let's Collaborate:
+## Let's Collaborate
 
-Open to collaborations and contributions. Feel free to reach out!
-- Email: raibikraminfo@gmail.com
-- LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
-- X: [@BikramRai_](https://x.com/BikramRai_)
+I’m open to collaborations and contributions. Feel free to reach out!
+
+- **Email**: [raibikraminfo@gmail.com](mailto:raibikraminfo@gmail.com)
+- **LinkedIn**: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
+- **X**: [@BikramRai_](https://x.com/BikramRai_)
 
 ## Thanks for Visiting!
 
