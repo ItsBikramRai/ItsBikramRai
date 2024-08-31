@@ -20,7 +20,6 @@ I'm an aspiring Full-Stack Developer passionate about creating user-friendly int
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBikramRai&layout=compact&theme=radical)
 
-*Note: If the most used languages are not displaying, ensure your repositories contain enough code and are public.*
 
 ## Let's Collaborate
 
