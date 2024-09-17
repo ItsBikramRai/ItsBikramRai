@@ -8,6 +8,7 @@ I'm an aspiring Full-Stack Developer passionate about creating user-friendly int
 
 - JavaScript
 - Node.js
+- MongoDB
 - React
 - HTML
 - CSS (Bootstrap, Tailwind)
