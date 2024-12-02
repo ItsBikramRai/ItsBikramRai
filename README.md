@@ -27,7 +27,7 @@ I’m open to collaborations and contributions. Feel free to reach out!
 
 - **Email**: [raibikraminfo@gmail.com](mailto:raibikraminfo@gmail.com)
 - **LinkedIn**: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
-- **X**: [@BikramRai_](https://x.com/BikramRai_)
+- **X**: [@BikramRai_](https://x.com/RaiBkram)
 
 ## Thanks for Visiting!
 
