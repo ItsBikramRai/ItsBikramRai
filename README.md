@@ -2,25 +2,25 @@
 
 ## About Me
 
-I'm an aspiring Full-Stack Developer passionate about creating user-friendly interfaces and robust backend systems. Constantly exploring new technologies, I'm dedicated to expanding my skills and knowledge to build impactful and efficient solutions.
+I'm an aspiring **Software Engineer** and a **MERN Stack Developer** passionate about creating user-friendly interfaces and robust backend systems. Constantly exploring new technologies, I'm dedicated to expanding my skills and knowledge to build impactful and efficient solutions. 
 
 ## Skills
 
-- JavaScript
-- Node.js
-- MongoDB
-- React
-- HTML
-- CSS (Bootstrap, Tailwind)
+- **JavaScript**
+- **Node.js**
+- **React**
+- **MongoDB**
+- **Next.js**
+- **TypeScript**
+- **HTML & CSS** (Tailwind, Bootstrap)
 
 ## GitHub Stats
 
-![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsBikramRai&show_icons=true&theme=radical)
+![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsBikramRai&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBikramRai&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBikramRai&layout=compact&theme=tokyonight&card_width=350)
 
 ## Let's Collaborate
 
