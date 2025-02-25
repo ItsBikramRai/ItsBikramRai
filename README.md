@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an aspiring **MERN Stack Developer** || **Software Engineer**  passionate about creating user-friendly interfaces and robust backend systems. Constantly exploring new technologies, I'm dedicated to expanding my skills and knowledge to build impactful and efficient solutions. 
+I'm an aspiring **MERN Stack Developer** | **Software Engineer**  passionate about creating user-friendly interfaces and robust backend systems. Constantly exploring new technologies, I'm dedicated to expanding my skills and knowledge to build impactful and efficient solutions. 
 
 ## Skills
 
