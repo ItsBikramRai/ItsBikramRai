@@ -16,11 +16,11 @@ I'm an aspiring **Software Engineer** and a **MERN Stack Developer** passionate 
 
 ## GitHub Stats
 
-![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsBikramRai&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
+![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaiBikram&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBikramRai&layout=compact&theme=tokyonight&card_width=350)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiBikram&layout=compact&theme=tokyonight&card_width=350)
 
 ## Let's Collaborate
 
